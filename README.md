@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Backend (NestJS + MongoDB)
+# 🍽️ Restaurant Backend
 
 This is the backend API for a mobile-based restaurant management application built using **NestJS** and **MongoDB Atlas**.
 
