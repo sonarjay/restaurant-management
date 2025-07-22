@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Backend
 
-This is the backend API for a mobile-based restaurant management application built using **NestJS** and **MongoDB Atlas**.
+This is the backend API for a mobile-based restaurant management application built using **NestJS**.
 
 The system allows restaurant **owners** and **waiters** to:
 - Manage dine-in and takeaway orders
@@ -8,15 +8,6 @@ The system allows restaurant **owners** and **waiters** to:
 - Choose menu items
 - Send orders to kitchen in real-time using WebSockets
 - Connect kitchen devices to receive and print orders instantly
-
----
-
-## 🚀 Tech Stack
-
-- **Framework:** NestJS (Node.js)
-- **Database:** MongoDB Atlas (Mongoose ODM)
-- **Real-time:** Socket.IO Gateway for order broadcasting
-- **Language:** TypeScript
 
 ---
 
